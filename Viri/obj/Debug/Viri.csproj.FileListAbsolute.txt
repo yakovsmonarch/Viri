@@ -1,0 +1,8 @@
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\bin\Debug\Viri.exe.config
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\bin\Debug\Viri.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\bin\Debug\Viri.pdb
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\obj\Debug\Viri.csprojResolveAssemblyReference.cache
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\obj\Debug\Viri.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\obj\Debug\Viri.pdb
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\obj\Debug\Viri.FormViri.resources
+C:\Users\yaser\Documents\SharpDevelop Projects\Viri\Viri\obj\Debug\Viri.csproj.GenerateResource.Cache
